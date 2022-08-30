@@ -1,6 +1,5 @@
-# Projects
+# EPSILON V0.1
 
-EPSILON V0.1:
 
 *The Schematics, pcb design and code uploaded are of the initial proof of concept
 of the device and will be subject to many changes.I am currently working on developing and testing  the code for the device on this initial prototype.*
